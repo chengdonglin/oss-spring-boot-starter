@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "dmai.oss.aliyun",
+      "type": "com.dmai.oss.config.AliyunOssProperties",
+      "sourceType": "com.dmai.oss.config.AliyunOssProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "dmai.oss.aliyun.access-key-id",
+      "type": "java.lang.String",
+      "description": "key",
+      "sourceType": "com.dmai.oss.config.AliyunOssProperties"
+    },
+    {
+      "name": "dmai.oss.aliyun.access-key-secret",
+      "type": "java.lang.String",
+      "description": "secret",
+      "sourceType": "com.dmai.oss.config.AliyunOssProperties"
+    },
+    {
+      "name": "dmai.oss.aliyun.bucket",
+      "type": "java.lang.String",
+      "description": "桶",
+      "sourceType": "com.dmai.oss.config.AliyunOssProperties"
+    },
+    {
+      "name": "dmai.oss.aliyun.callback-url",
+      "type": "java.lang.String",
+      "description": "请求的回调地址",
+      "sourceType": "com.dmai.oss.config.AliyunOssProperties"
+    },
+    {
+      "name": "dmai.oss.aliyun.enable",
+      "type": "java.lang.Boolean",
+      "description": "阿里云 oss 开关启动器",
+      "sourceType": "com.dmai.oss.config.AliyunOssProperties"
+    },
+    {
+      "name": "dmai.oss.aliyun.endpoint",
+      "type": "java.lang.String",
+      "description": "endpoint",
+      "sourceType": "com.dmai.oss.config.AliyunOssProperties"
+    }
+  ],
+  "hints": []
+}

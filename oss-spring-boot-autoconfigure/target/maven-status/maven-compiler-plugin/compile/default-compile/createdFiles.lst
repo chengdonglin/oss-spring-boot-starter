@@ -1,0 +1,11 @@
+com\dmai\oss\config\AliyunOssProperties.class
+com\dmai\oss\config\AliyunOssAutoConfiguration.class
+com\dmai\oss\model\FrameSnapshot.class
+com\dmai\oss\model\OssResult.class
+com\dmai\oss\enums\SnapshotEnum.class
+com\dmai\oss\exception\AliyunOssException.class
+com\dmai\oss\service\AliyunOssService.class
+META-INF\spring-autoconfigure-metadata.properties
+META-INF\spring-configuration-metadata.json
+com\dmai\oss\enums\ContentTypeEnum.class
+com\dmai\oss\enums\TransEnum.class
